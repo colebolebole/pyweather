@@ -4,6 +4,13 @@ PyWeather, is a free & open source software, that uses the OpenWeatherMap API to
 ![image](https://github.com/colebolebole/openweather/assets/88512222/44244110-3167-4f31-afb2-5c7e022eab1c)
 
 ---
+
+![image](https://github.com/colebolebole/pyweather/assets/88512222/ff4a6020-4b6f-47da-894a-1451f0143c2a)
+
+Gui Courtesy @axeltechtips! 
+
+
+---
 # Prerequisites  
 Python
 Requests (pip install requests)
