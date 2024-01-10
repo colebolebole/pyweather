@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather App</title>
+    <title>PyWeather - GUI</title>
+    <link rel="manifest" href="/manifest.json">
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -128,10 +129,10 @@
 </head>
 <body>
     <div id="weather-container">
-        <h1>Weather App</h1>
+        <h1>PyWeather - GUI</h1>
         <label for="city">Enter city:</label>
         <input type="text" id="city" placeholder="City" class="dark-mode">
-        <label for="state">Enter state:</label>
+        <label for="state">Enter state/country:</label>
         <input type="text" id="state" placeholder="State" class="dark-mode">
         <button onclick="getWeather()" class="dark-mode">Get Weather</button>
         <div id="weather-details">
