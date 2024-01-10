@@ -19,3 +19,8 @@ paste it in @ line 38
 
 and you are done!
 
+---
+
+# if you want to skip this, download the public file already containing an api key! 
+https://github.com/colebolebole/openweather/releases/tag/pyweather
+
