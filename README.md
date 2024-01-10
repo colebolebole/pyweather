@@ -31,6 +31,7 @@ and you are done!
 
 
 Simply use any webserver client (exp SiPyWeb), run it and it should work. already has a free public api key installed!
+and/or you can of course make your own api key: https://home.openweathermap.org/api_keys
 
 ---
 
