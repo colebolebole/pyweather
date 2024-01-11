@@ -8,6 +8,9 @@ Now with a gui!
 
 ![image](https://github.com/colebolebole/pyweather/assets/88512222/ff4a6020-4b6f-47da-894a-1451f0143c2a)
 
+---
+
+![image](mobile.png)
 
 ---
 # Prerequisites  
