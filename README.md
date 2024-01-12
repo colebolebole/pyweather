@@ -36,6 +36,7 @@ and you are done!
 Simply use any webserver client (exp SiPyWeb) also works on nginx, run it and it should work. already has a free public api key installed!
 and/or you can of course make your own api key: https://home.openweathermap.org/api_keys
 If you are running on nginx windows, just download our zip file from releases, extract it, and run nginx.exe!
+
 ---
 
 # if you want to skip this, download the public file already containing an api key! 
