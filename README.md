@@ -30,9 +30,19 @@ Paste it in @ line 38
 and you are done!
 
 # Setup - GUI
-Simply use any webserver client (exp SiPyWeb) also works on nginx, run it and it should work. already has a free public API key installed!
-and/or you can of course make your own api key: https://home.openweathermap.org/api_keys
-If you are running on nginx Windows, just download our zip file from releases, extract it, and run nginx.exe!
+1. Choose Your Web Server:
+
+Flexibility: You have the freedom to use various web server clients, including SiPyWeb and nginx.
+nginx on Windows: If you're using nginx on Windows, simply download the zip file from the releases, extract it, and run nginx.exe. It's that easy!
+
+2. Start the Server:
+
+No extra steps: Once you've chosen your web server, just fire it up and you're ready to go.
+API Key:
+
+Free public key: A free public API key is conveniently pre-installed, so you can start using the service right away.
+Customization: If you prefer to use your own API key, you can easily create one at [openweathermap.org/appid](https://openweathermap.org/appid)
+That's it! With these simple steps, you'll be up and running in no time.
 
 # Don't want to use an API Key?
 Get a release that already has one!
