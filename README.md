@@ -1,4 +1,4 @@
-PyWeather, is a free & open source software, that uses the OpenWeatherMap API to retrieve weather information from user input
+PyWeather, is a free & piece of open source software, that uses the OpenWeatherMap API to retrieve weather information from user input
 Now with a gui! 
 
 ---
