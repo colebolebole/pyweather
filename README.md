@@ -32,14 +32,23 @@ pip install requests
 pip install folium pyqtwebengine pyqt5
 ```
 ---
-
+# CLI
 Then simply create a API key from this [link](https://home.openweathermap.org/api_keys).
 
 Paste it in @ line 38
 
 ![image](https://github.com/colebolebole/openweather/assets/88512222/16d9d12e-ebfe-4892-b5a0-73ee1049b436)
 
-and you are done!
+---
+# CLI 2.0 & Up
+
+Create a API key from [here](https://home.openweathermap.org/api_keys)
+
+Paste @ line 12
+
+![image](https://github.com/colebolebole/pyweather/assets/88512222/20607d49-bbcc-47be-83f7-17122e5b5361)
+
+
 
 # Setup - GUI
 1. Choose Your Web Server:
