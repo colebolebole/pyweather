@@ -5,7 +5,9 @@ Now with a GUI!
 ## Prerequisites  
 Python
 
-Requests
+Requests (1.0 CLI)
+
+Folium, pyqtwebengine, pyqt5 (2.0 & Up CLI)
 
 # Screenshots
 ![image](https://github.com/colebolebole/openweather/assets/88512222/44244110-3167-4f31-afb2-5c7e022eab1c)
@@ -14,12 +16,19 @@ Requests
 
 ![image](mobile.png)
 
-# Setup - CLI
+# Setup 1.0 - CLI
 First install requests
 
 ```python
 pip install requests
 ```
+---
+2.0 & Up
+
+```python
+pip install folium pyqtwebengine pyqt5
+```
+---
 
 Then simply create a API key from this [link](https://home.openweathermap.org/api_keys).
 
