@@ -72,10 +72,6 @@ Paste @ line 153
 ---
 
 
-
-
-
-
 # Setup - GUI
 1. Choose Your Web Server:
 
