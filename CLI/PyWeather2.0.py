@@ -14,7 +14,7 @@ class WeatherMapApp(QWidget):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle('Weather Map App')
+        self.setWindowTitle('PyWeather 2.0')
 
         main_layout = QHBoxLayout()
 
