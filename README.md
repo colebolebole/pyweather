@@ -48,6 +48,31 @@ Paste @ line 12
 
 ![image](https://github.com/colebolebole/pyweather/assets/88512222/20607d49-bbcc-47be-83f7-17122e5b5361)
 
+---
+
+# Mobile Version: GUI
+
+Create a API key from [here](https://home.openweathermap.org/api_keys)
+
+Paste @ line 137
+
+![Screenshot 2024-01-17 210218](https://github.com/colebolebole/pyweather/assets/88512222/6116657e-4467-4d72-a05c-785733c9ccb9)
+
+---
+
+# Desktop Version: GUI
+
+Create a API key from [here](https://home.openweathermap.org/api_keys)
+
+Paste @ line 153
+
+![Screenshot 2024-01-17 210211](https://github.com/colebolebole/pyweather/assets/88512222/30702e7a-959c-428b-a986-bb371bdf790f)
+
+---
+
+
+
+
 
 
 # Setup - GUI
