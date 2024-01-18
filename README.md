@@ -16,6 +16,9 @@ Folium, pyqtwebengine, pyqt5 (2.0 & Up CLI)
 
 ![image](mobile.png)
 
+![image](https://github.com/colebolebole/pyweather/assets/88512222/c0a0ac39-81db-4fa7-a9b2-a4b896725516)
+
+
 # Setup 1.0 - CLI
 First install requests
 
