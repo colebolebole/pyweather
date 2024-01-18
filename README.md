@@ -40,6 +40,7 @@ Paste it in @ line 38
 ![image](https://github.com/colebolebole/openweather/assets/88512222/16d9d12e-ebfe-4892-b5a0-73ee1049b436)
 
 ---
+
 # CLI 2.0 & Up
 
 Create a API key from [here](https://home.openweathermap.org/api_keys)
