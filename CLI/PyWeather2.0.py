@@ -9,7 +9,7 @@ class WeatherMapApp(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.api_key = '0b37e47e67e63246f5d49cd9ee488ad7'
+        self.api_key = 'API_KEY_HERE'
 
         self.init_ui()
 
